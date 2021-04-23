@@ -38,7 +38,7 @@ PySCP is a FTP/SFTP client written in python using the tkinter GUI toolkit. Can 
 *Goto parent directory*
 
 # License
-+ MIT License. See: https://github.com/RainingComputers/whipFTP/blob/master/LICENSE.md
++ MIT License. See: https://github.com/NeiroNx/PySCP/blob/master/LICENSE.md
 
 # Bugs
 + Application looks blurry when DPI scaling is enabled.
