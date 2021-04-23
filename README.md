@@ -7,6 +7,8 @@ PySCP is a FTP/SFTP client written in python using the tkinter GUI toolkit. Can 
 
 forked from [whipFTP](https://github.com/RainingComputers/whipFTP)
 
+```pip install paramiko```
+
 #### Currently supported platforms:
 + Linux
 + Windows XP/7/10
