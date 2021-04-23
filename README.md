@@ -41,4 +41,4 @@ forked from [whipFTP](https://github.com/RainingComputers/whipFTP)
 *Goto parent directory*
 
 # License
-+ MIT License. See: https://github.com/NeiroNx/PySCP/blob/master/LICENSE.md
++ MIT License. See: https://github.com/NeiroNx/PySCP/blob/master/LICENSE
