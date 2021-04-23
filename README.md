@@ -4,6 +4,9 @@
 
 # About
 PySCP is a FTP/SFTP client written in python using the tkinter GUI toolkit. Can upload, download, create, rename, copy, move and search files/folders.
+
+forked from [whipFTP](https://github.com/RainingComputers/whipFTP)
+
 #### Currently supported platforms:
 + Linux
 + Windows XP/7/10
@@ -39,10 +42,3 @@ PySCP is a FTP/SFTP client written in python using the tkinter GUI toolkit. Can 
 
 # License
 + MIT License. See: https://github.com/NeiroNx/PySCP/blob/master/LICENSE.md
-
-# Bugs
-+ Application looks blurry when DPI scaling is enabled.
-+ Search on the root directory does not work.
-
-# Note
-This project is currently being rewritten in wxpython.
